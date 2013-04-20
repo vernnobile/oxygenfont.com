@@ -3,7 +3,8 @@ font-family:'oxygensansbook';
 }
 
 .mainheader {
-background-color:#fff;
+background-color:#444343;
+color:#ddd;
 padding:8px;
 margin-top:44px;
 -webkit-border-radius: 8px 8px 0px 0px;
@@ -11,7 +12,7 @@ margin-top:44px;
 }
 
 .sliderBox {
-height:520px;
+min-height:520px;
 background-color:#fff;
 background-image: -moz-linear-gradient(top, #eee, #ccc);
 background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eee), to(#ccc));
@@ -41,9 +42,6 @@ border-bottom-left-radius:0px;
 margin-top:13px;
 padding:3px;
 color:#555;  
-  border-right-width: 1px;  
-  border-right-style: solid;  
-  border-right-color: #333333;
 line-height:4em;
 height:250px;
 vertical-align:middle;
@@ -60,7 +58,7 @@ line-height:2em;
 
 body {
 background-color:#ccc;
-background-image:url('assets/images/back-slider.jpg');
+/*background-image:url('assets/images/back-slider.jpg');*/
 background-repeat: repeat-x;
 line-height:1.8em;
 }

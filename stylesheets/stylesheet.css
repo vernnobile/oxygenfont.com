@@ -2,8 +2,15 @@ p {
 font-family:'oxygensansbook';
 }
 
+#backBox {
+height:100px;
+position:absolute;
+z-index:-999;
+}
+
 .mainheader {
 background-color:#444343;
+/*background-color:#fff;*/
 color:#ddd;
 padding:8px;
 margin-top:44px;
@@ -40,10 +47,7 @@ border-bottom-left-radius:0px;
 
 .specimen {
 margin-top:13px;
-padding:3px;
 color:#555;  
-line-height:4em;
-height:250px;
 vertical-align:middle;
  }
 
@@ -58,8 +62,6 @@ line-height:2em;
 
 body {
 background-color:#ccc;
-/*background-image:url('assets/images/back-slider.jpg');*/
-background-repeat: repeat-x;
 line-height:1.8em;
 }
 

@@ -1,3 +1,37 @@
+.carousel.fade
+{
+    opacity: .8;
+
+    .item
+    {
+        -moz-transition: opacity ease-in-out 3s;
+        -o-transition: opacity ease-in-out 3s;
+        -webkit-transition: opacity ease-in-out 3s;
+        transition: opacity ease-in-out 3s;
+        left: 0 !important;
+        opacity: 0;
+        top:0;
+        position:absolute;
+        width: 100%;
+        display:block !important;
+        z-index:19;
+        &:first-child{
+            top:auto;
+            position:relative;
+        }
+
+        &.active
+        {
+            opacity: .8;
+            -moz-transition: opacity ease-in-out 1s;
+            -o-transition: opacity ease-in-out 1s;
+            -webkit-transition: opacity ease-in-out 1s;
+            transition: opacity ease-in-out 1s;
+            z-index:29;
+        }
+    }
+}
+
 p {
 font-family:'oxygensansbook';
 }
@@ -5,11 +39,6 @@ font-family:'oxygensansbook';
 .top_menu {
 margin-top:21px;
 margin-bottom:-34px;
-}
-
-.top_menu li {
-display:inline;
-padding-left:8px;
 }
 
 .top_menu li a {
@@ -47,6 +76,8 @@ background-image: linear-gradient(to bottom, #eee, #ccc);
 background-repeat: repeat-x;padding:21px;
 -webkit-border-radius: 0px 0px 8px 8px;
   border-radius: 0px 0px 8px 8px; 
+padding: 55px 21px 55px 21px;
+
 }
 
 .tab {

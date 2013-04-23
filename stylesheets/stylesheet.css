@@ -2,6 +2,27 @@ p {
 font-family:'oxygensansbook';
 }
 
+.top_menu {
+margin-top:13px;
+}
+.top_menu li {
+display:inline;
+padding-left:8px;
+font-family:'Roboto';
+font-size:0.9em;
+color:#444;
+text-shadow: 0px 0px 3px #fff;
+}
+
+.top_menu li hover{
+display:inline;
+padding-left:8px;
+font-family:'Roboto';
+font-size:0.9em;
+color:#aaa;
+text-shadow: 0px 0px 3px #fff;
+}
+
 #backBox {
 height:100px;
 position:absolute;

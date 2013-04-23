@@ -37,7 +37,7 @@ margin-top:44px;
 }
 
 .carousel-inner {
-min-height:400px;
+max-height:500px;
 background-color:#fff;
 background-image: -moz-linear-gradient(top, #eee, #ccc);
 background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eee), to(#ccc));

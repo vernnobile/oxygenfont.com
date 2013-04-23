@@ -3,24 +3,21 @@ font-family:'oxygensansbook';
 }
 
 .top_menu {
-margin-top:13px;
+margin-top:21px;
+margin-bottom:-34px;
 }
+
 .top_menu li {
 display:inline;
 padding-left:8px;
-font-family:'Roboto';
-font-size:0.9em;
-color:#444;
-text-shadow: 0px 0px 3px #fff;
 }
 
-.top_menu li hover{
+.top_menu li a {
 display:inline;
-padding-left:8px;
 font-family:'Roboto';
-font-size:0.9em;
-color:#aaa;
-text-shadow: 0px 0px 3px #fff;
+font-size:1em;
+color:#444;
+text-shadow: 0px 0px 6px #fff;
 }
 
 #backBox {
@@ -39,7 +36,7 @@ margin-top:44px;
   border-radius: 8px 8px 0px 0px; 
 }
 
-.sliderBox {
+.carousel-inner {
 min-height:520px;
 background-color:#fff;
 background-image: -moz-linear-gradient(top, #eee, #ccc);

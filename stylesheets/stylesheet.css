@@ -50,9 +50,9 @@ text-shadow: 0px 0px 6px #fff;
 }
 
 #backBox {
-height:100px;
 position:absolute;
-z-index:-999;
+z-index:-90;
+
 }
 
 .mainheader {
@@ -134,10 +134,10 @@ font-weight: 300;
 
 hr {  
   
-  border-top-color: silver;  
-  border-right-color: silver;  
-  border-bottom-color: #999999;  
-  border-left-color: silver;  
+  border-top-color: #333;  
+  border-right-color: #333;  
+  border-bottom-color: #333;  
+  border-left-color: #333;  
   border-top-width: thin;  
   border-right-width: thin;  
   border-bottom-width: thin;  

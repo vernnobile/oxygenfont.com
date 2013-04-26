@@ -40,3 +40,14 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'oxygenmono';
+    src: url('OxygenMono-Regular.eot');
+    src: url('OxygenMono-Regular.eot?#iefix') format('embedded-opentype'),
+         url('OxygenMono-Regular.woff') format('woff'),
+         url('OxygenMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}

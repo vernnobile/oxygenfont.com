@@ -43,10 +43,10 @@
 
 @font-face {
     font-family: 'oxygenmono';
-    src: url('OxygenMono-Regular.eot');
-    src: url('OxygenMono-Regular.eot?#iefix') format('embedded-opentype'),
-         url('OxygenMono-Regular.woff') format('woff'),
-         url('OxygenMono-Regular.ttf') format('truetype');
+    src: url('oxygenmono-regular.eot');
+    src: url('oxygenmono-regular.eot?#iefix') format('embedded-opentype'),
+         url('oxygenmono-regular.woff') format('woff'),
+         url('oxygenmono-regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 

@@ -74,8 +74,8 @@ background-image: -webkit-linear-gradient(top, #eee, #ccc);
 background-image: -o-linear-gradient(top, #eee, #ccc);
 background-image: linear-gradient(to bottom, #eee, #ccc);
 background-repeat: repeat-x;padding:21px;
--webkit-border-radius: 0px 0px 8px 8px;
-  border-radius: 0px 0px 8px 8px; 
+/*-webkit-border-radius: 0px 0px 8px 8px;
+  border-radius: 0px 0px 8px 8px; */
 padding: 55px 21px 55px 21px;
 
 }

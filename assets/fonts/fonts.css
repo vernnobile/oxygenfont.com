@@ -18,10 +18,10 @@
 
 @font-face {
     font-family: 'oxygensansbook';
-    src: url('oxygensans-regular-x.eot');
-    src: url('oxygensans-regular-x.eot?#iefix') format('embedded-opentype'),
-         url('oxygensans-regular-x.woff') format('woff'),
-         url('oxygensans-regular-x.ttf') format('truetype');
+    src: url('oxygen-sans.eot');
+    src: url('oxygen-sans.eot?#iefix') format('embedded-opentype'),
+         url('oxygen-sans.woff') format('woff'),
+         url('Oxygen-Sans.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -32,10 +32,10 @@
 
 @font-face {
     font-family: 'oxygensansbold';
-    src: url('oxygensans-bold-x.eot');
-    src: url('oxygensans-bold-x.eot?#iefix') format('embedded-opentype'),
-         url('oxygensans-bold-x.woff') format('woff'),
-         url('oxygensans-bold-x.ttf') format('truetype');
+    src: url('oxygen-sans-bold.eot');
+    src: url('oxygen-sans-bold.eot?#iefix') format('embedded-opentype'),
+         url('oxygen-sans-bold.woff') format('woff'),
+         url('Oxygen-Sans-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 

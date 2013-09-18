@@ -1,7 +1,21 @@
-.carousel.fade
-{
-    opacity: .8;
+* {
+    font-family:'oxygensansbook';
+}
 
+.btn a  {
+    font-weight:400;
+    font-size:1em;
+}
+
+ul {
+    font-size:1em;
+}
+
+.lead-in {
+    font-family:'oxygensansbold';
+    font-size:1.3em;
+    color:#555;
+}
     .item
     {
         -moz-transition: opacity ease-in-out 3s;
@@ -34,6 +48,7 @@
 
 p {
 font-family:'oxygensansbook';
+    color:#555;
 }
 
 .top_menu {
@@ -56,27 +71,26 @@ z-index:-90;
 }
 
 .mainheader {
-background-color:#444343;
-/*background-color:#fff;*/
-color:#ddd;
+/*background-color:#444343;*/
+background-color:#fff;
+color:#333;
 padding:8px;
-margin-top:44px;
 -webkit-border-radius: 8px 8px 0px 0px;
   border-radius: 8px 8px 0px 0px; 
 }
 
 .carousel-inner {
-max-height:500px;
+/*max-height:500px;
 background-color:#fff;
-background-image: -moz-linear-gradient(top, #eee, #ccc);
-background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eee), to(#ccc));
-background-image: -webkit-linear-gradient(top, #eee, #ccc);
-background-image: -o-linear-gradient(top, #eee, #ccc);
-background-image: linear-gradient(to bottom, #eee, #ccc);
+background-image: -moz-linear-gradient(top, #ddd, #556);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ddd), to(#556));
+background-image: -webkit-linear-gradient(top, #ddd, #556);
+background-image: -o-linear-gradient(top, #ddd, #556);
+background-image: linear-gradient(to bottom, #ddd, #556);
 background-repeat: repeat-x;padding:21px;
-/*-webkit-border-radius: 0px 0px 8px 8px;
+-webkit-border-radius: 0px 0px 8px 8px;
   border-radius: 0px 0px 8px 8px; */
-padding: 55px 21px 55px 21px;
+padding: 0px 0px 0px 0px;
 
 }
 

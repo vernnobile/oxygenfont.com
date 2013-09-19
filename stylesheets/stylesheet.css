@@ -1,5 +1,6 @@
 * {
     font-family:'oxygensansbook';
+    color:#555;
 }
 
 .btn a  {
@@ -46,9 +47,9 @@ ul {
     }
 }
 
-p {
+.pText {
 font-family:'oxygensansbook';
-    color:#555;
+font-size:0.6em;
 }
 
 .top_menu {

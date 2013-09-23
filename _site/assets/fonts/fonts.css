@@ -17,10 +17,17 @@
 
 @font-face {
     font-family: 'oxygensansbook';
+<<<<<<< HEAD
     src: url('oxygen-sans-regular-webfont.eot');
     src: url('oxygen-sans-regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('oxygen-sans-regular-webfont.woff') format('woff'),
          url('oxygen-sans-regular-webfont.ttf') format('truetype');
+=======
+    src: url('oxygensans-regular-webfont.eot');
+    src: url('oxygensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('oxygensans-regular-webfont.woff') format('woff'),
+         url('oxygensans-regular-webfont.ttf') format('truetype');
+>>>>>>> master
     font-weight: normal;
     font-style: normal;
 

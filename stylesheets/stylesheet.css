@@ -3,6 +3,20 @@
     color:#555;
 }
 
+.inset {
+    padding: 10px 10px 10px 20px;
+    margin-bottom: 14px;
+    font-size: 120%;
+    line-height: 2.1428571435;
+    color: #fff;
+    background-color:#bac9ca;
+    width:90%;
+}
+
+.container .inset {
+    border-radius: 5px;
+}
+
 .readme {
     background-color:#fff;
 }
@@ -103,3 +117,6 @@ p {
     text-align: center;
 }
 
+.copyright {
+    font-size:0.8em;
+}

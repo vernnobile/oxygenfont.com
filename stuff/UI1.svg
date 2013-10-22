@@ -37,8 +37,8 @@
      fit-margin-bottom="100"
      inkscape:window-width="1760"
      inkscape:window-height="1093"
-     inkscape:window-x="11"
-     inkscape:window-y="1"
+     inkscape:window-x="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -87,19 +87,6 @@
            x="94.636719"
            id="tspan3839"
            sodipodi:role="line">Welcome to InfinityBox</tspan></text>
-      <text
-         transform="scale(1.1507212,0.86902023)"
-         xml:space="preserve"
-         style="font-size:51.19352722px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
-         x="316.68973"
-         y="250.08203"
-         id="text12046"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan12048"
-           x="316.68973"
-           y="250.08203"
-           style="font-size:26.87660217px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans">x</tspan></text>
       <g
          transform="translate(-168,4.5)"
          id="g12068">
@@ -206,7 +193,7 @@
            sodipodi:role="line">notifications</tspan></text>
       <path
          transform="matrix(0.72514993,0,0,0.72514993,266.46038,389.6514)"
-         d="m 464,-125.09814 a 16,16 0 1 1 -32,0 16,16 0 1 1 32,0 z"
+         d="m 464,-125.09814 c 0,8.83656 -7.16344,16 -16,16 -8.83656,0 -16,-7.16344 -16,-16 0,-8.83655 7.16344,-16 16,-16 8.83656,0 16,7.16345 16,16 z"
          sodipodi:ry="16"
          sodipodi:rx="16"
          sodipodi:cy="-125.09814"

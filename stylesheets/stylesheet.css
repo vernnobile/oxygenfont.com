@@ -3,50 +3,6 @@
     color:#555;
 }
 
-.btn a  {
-    font-weight:400;
-    font-size:1em;
-}
-
-ul {
-    font-size:1em;
-}
-
-.lead-in {
-    font-family:'oxygensansbold';
-    font-size:1.3em;
-    color:#555;
-}
-    .item
-    {
-        -moz-transition: opacity ease-in-out 3s;
-        -o-transition: opacity ease-in-out 3s;
-        -webkit-transition: opacity ease-in-out 3s;
-        transition: opacity ease-in-out 3s;
-        left: 0 !important;
-        opacity: 0;
-        top:0;
-        position:absolute;
-        width: 100%;
-        display:block !important;
-        z-index:19;
-        &:first-child{
-            top:auto;
-            position:relative;
-        }
-
-        &.active
-        {
-            opacity: .8;
-            -moz-transition: opacity ease-in-out 1s;
-            -o-transition: opacity ease-in-out 1s;
-            -webkit-transition: opacity ease-in-out 1s;
-            transition: opacity ease-in-out 1s;
-            z-index:29;
-        }
-    }
-}
-
 .pText {
 font-family:'oxygensansbook';
 font-size:0.6em;
@@ -79,36 +35,6 @@ padding:8px;
 -webkit-border-radius: 8px 8px 0px 0px;
   border-radius: 8px 8px 0px 0px; 
 }
-
-.carousel-inner {
-/*max-height:500px;
-background-color:#fff;
-background-image: -moz-linear-gradient(top, #ddd, #556);
-background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ddd), to(#556));
-background-image: -webkit-linear-gradient(top, #ddd, #556);
-background-image: -o-linear-gradient(top, #ddd, #556);
-background-image: linear-gradient(to bottom, #ddd, #556);
-background-repeat: repeat-x;padding:21px;
--webkit-border-radius: 0px 0px 8px 8px;
-  border-radius: 0px 0px 8px 8px; */
-padding: 0px 0px 0px 0px;
-
-}
-
-.tab {
-width:200px;
-text-align:center;
-margin-left:21px;
-background-color:#aaa;
-color:#fff;
-padding:3px 3px 0px 3px;
-border-bottom-left-radius:0px;
-  border-bottom-right-radius:0px;
-  border-top-left-radius:4px;
-  border-top-right-radius:4px;
-  border:solid 1px 1px 0px 1px #ddd;
-	}
-
 .specimen {
 margin-top:13px;
 color:#555;  

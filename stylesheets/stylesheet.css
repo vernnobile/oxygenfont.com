@@ -1,16 +1,54 @@
 * {
-    font-family:'oxygensansbook';
-    color:#555;
+font-family:'oxygensansbook';
+color:#555;
 }
 
-.pText {
+.left_btn {
+border:0;
+background:#fff;
+padding:5px 21px 5px 21px;
+margin:0px -2px 0px 0px;
+border-radius:5px 0px 0px 5px;
+}
+
+.mid_btn_white {
+border:0;
+background:#fff;
+padding:5px 21px 5px 21px;
+margin:0px -2px 0px 0px;
+
+}
+
+.mid_btn_dark {
+border:0;
+background:#333;
+padding:5px 21px 5px 21px;
+margin:0px -2px 0px 0px;
+
+}
+
+.right_btn {
+border:0;
+background:#fff;
+padding:5px 21px 5px 21px;
+margin:0px -2px 0px 0px;
+border-radius:0px 5px 5px 0px;
+}
+
+.lead-in {
+padding:13px 0px 0px 0px;
+font-size:1.3em;
+}
+
+p {
 font-family:'oxygensansbook';
-font-size:0.6em;
+font-size:1em;
+line-height:1.5em;
 }
 
 .top_menu {
 margin-top:21px;
-margin-bottom:-34px;
+margin-bottom:21px;
 }
 
 .top_menu li a {
@@ -24,7 +62,6 @@ text-shadow: 0px 0px 6px #fff;
 #backBox {
 position:absolute;
 z-index:-90;
-
 }
 
 .mainheader {
@@ -35,36 +72,8 @@ padding:8px;
 -webkit-border-radius: 8px 8px 0px 0px;
   border-radius: 8px 8px 0px 0px; 
 }
-.specimen {
-margin-top:13px;
-color:#555;  
-vertical-align:middle;
- }
-
-.specimen2 {
-margin-top:13px;
-padding:3px;
-color:#444;
-line-height:2em;
-
- }
 
 
-body {
-background-color:#eee;
-line-height:1.8em;
-}
-
-
-  #mainFooter {  
-  background-color: silver;  
-  width: 100%;  
-  padding-top: 13px;  
-  padding-right: 13px;  
-  padding-bottom: 13px;  
-  padding-left: 13px;  
-  height: 44px;
-}
 
 
 #project_tagline {  

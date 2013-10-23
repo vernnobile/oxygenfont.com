@@ -44,9 +44,14 @@
 
 .mid_btn_dark {
     border:0;
-    background:#555;
-    padding:5px 21px 5px 21px;
+    background:#467;
+    padding:3px 21px 3px 21px;
     margin:0px -2px 0px 0px;
+    
+}
+
+.mid_btn_dark a {
+    color:#fff;
     
 }
 
@@ -71,7 +76,8 @@ p {
 
 .top_menu {
     margin-top:21px;
-    margin-bottom:21px;
+    margin-bottom:-11px;
+    padding-right:11px;
 }
 
 .top_menu li a {
@@ -88,7 +94,6 @@ p {
 }
 
 .mainheader {
-    /*background-color:#444343;*/
     background-color:#fff;
     color:#333;
     padding:8px;

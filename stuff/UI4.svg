@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   inkscape:export-filename="/Users/vern/gitHub/oxygenfont.com/assets/images/screenA.png"
+   inkscape:export-filename="/home/vern/gitHub/oxygenfont.com/assets/images/screenA.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:docname="UI3.svg">
@@ -26,9 +26,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.4305556"
-     inkscape:cx="84.524838"
-     inkscape:cy="127"
+     inkscape:zoom="1"
+     inkscape:cx="603.72197"
+     inkscape:cy="167"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -400,7 +400,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1800,7 +1800,7 @@ iJe8DgAA8ZLXAQAgXvI6AADES14HAIB4/QaQToBdSnYCsQAAAABJRU5ErkJggg==
          sodipodi:role="line">Gnome</tspan></text>
     <path
        style="fill:none;stroke:#848484;stroke-width:1.46531916px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 97.031281,954.11758 9.114609,0"
+       d="m 93.031281,954.11758 9.114609,0"
        id="path3551"
        inkscape:connector-curvature="0" />
     <path

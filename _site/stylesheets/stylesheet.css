@@ -10,7 +10,6 @@
     line-height: 2.1428571435;
     color: #fff;
     background-color:#8fb4cc;
-    width:90%;
 }
 
 .inset_download {
@@ -20,7 +19,6 @@
     line-height: 2.1428571435;
     color: #fff;
     background-color:#444;
-    width:90%;
 }
 
 .container .inset, .container .inset_download {
@@ -86,7 +84,7 @@ p {
 
 .top_menu {
     margin-top:21px;
-    margin-bottom:-11px;
+    margin-bottom:11px;
     padding-right:11px;
 }
 

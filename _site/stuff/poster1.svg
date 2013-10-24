@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="poster1.svg">
   <defs
      id="defs4">
     <filter
@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36213992"
-     inkscape:cx="852.23864"
-     inkscape:cy="1104.5455"
+     inkscape:zoom="0.3"
+     inkscape:cx="421.12122"
+     inkscape:cy="1158.9848"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -277,16 +277,183 @@
        x="320.52289"
        y="1052.9015" />
     <text
+       sodipodi:linespacing="125%"
+       id="text7248"
+       y="-1118.288"
+       x="1461.0591"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+       xml:space="preserve"><tspan
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-1118.288"
+         x="1461.0591"
+         sodipodi:role="line"
+         id="tspan7256">Oxygen Sans</tspan><tspan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-1018.288"
+         x="1461.0591"
+         sodipodi:role="line"
+         id="tspan7260" /><tspan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-953.31335"
+         x="1461.0591"
+         sodipodi:role="line"
+         id="tspan7262">a new typeface for the GNU/Linux desktop</tspan><tspan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-903.31335"
+         x="1461.0591"
+         sodipodi:role="line"
+         id="tspan7264" /><tspan
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-853.31335"
+         x="1461.0591"
+         sodipodi:role="line"
+         id="tspan7266" /><tspan
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-768.28796"
+         x="1461.0591"
+         sodipodi:role="line"
+         id="tspan7252">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan><tspan
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-668.28796"
+         x="1461.0591"
+         sodipodi:role="line"
+         id="tspan20519">abcdefghijklmnopqrstuvwxyz</tspan><tspan
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-568.28796"
+         x="1461.0591"
+         sodipodi:role="line"
+         id="tspan7268">0123456789</tspan></text>
+    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
-       x="340.14508"
-       y="-150.28824"
-       id="text4845"
+       x="1460.9907"
+       y="-186.36369"
+       id="text20446"
        sodipodi:linespacing="125%"><tspan
+         id="tspan20462"
          sodipodi:role="line"
-         id="tspan4847"
-         x="340.14508"
-         y="-150.28824"
-         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans">abcdefghijklmnopqrstuvwxyz</tspan></text>
+         x="1460.9907"
+         y="-186.36369"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan><tspan
+         sodipodi:role="line"
+         x="1460.9907"
+         y="-111.36369"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         id="tspan20527">abcdefghijklmnopqrstuvwxyz</tspan><tspan
+         id="tspan20464"
+         sodipodi:role="line"
+         x="1460.9907"
+         y="-36.363693"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">0123456789</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text20499"
+       y="56.12685"
+       x="1460.9565"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+       xml:space="preserve"><tspan
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="56.12685"
+         x="1460.9565"
+         sodipodi:role="line"
+         id="tspan20503">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan><tspan
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="118.62685"
+         x="1460.9565"
+         sodipodi:role="line"
+         id="tspan20531">abcdefghijklmnopqrstuvwxyz</tspan><tspan
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="181.12685"
+         x="1460.9565"
+         sodipodi:role="line"
+         id="tspan20505">0123456789</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text20509"
+       y="-461.16864"
+       x="1461.0249"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+       xml:space="preserve"><tspan
+         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-461.16864"
+         x="1461.0249"
+         sodipodi:role="line"
+         id="tspan20513">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan><tspan
+         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-373.66864"
+         x="1461.0249"
+         sodipodi:role="line"
+         id="tspan20523">abcdefghijklmnopqrstuvwxyz</tspan><tspan
+         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="-286.16864"
+         x="1461.0249"
+         sodipodi:role="line"
+         id="tspan20515">0123456789</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+       x="1460.9224"
+       y="266.30292"
+       id="text20533"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan20535"
+         sodipodi:role="line"
+         x="1460.9224"
+         y="266.30292"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan><tspan
+         id="tspan20537"
+         sodipodi:role="line"
+         x="1460.9224"
+         y="316.30292"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">abcdefghijklmnopqrstuvwxyz</tspan><tspan
+         id="tspan20539"
+         sodipodi:role="line"
+         x="1460.9224"
+         y="366.30292"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">0123456789</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text20541"
+       y="444.16458"
+       x="1460.8882"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+       xml:space="preserve"><tspan
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="444.16458"
+         x="1460.8882"
+         sodipodi:role="line"
+         id="tspan20543">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan><tspan
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="481.66458"
+         x="1460.8882"
+         sodipodi:role="line"
+         id="tspan20545">abcdefghijklmnopqrstuvwxyz</tspan><tspan
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans"
+         y="519.16455"
+         x="1460.8882"
+         sodipodi:role="line"
+         id="tspan20547">0123456789</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+       x="1460.854"
+       y="589.71179"
+       id="text20549"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan20551"
+         sodipodi:role="line"
+         x="1460.854"
+         y="589.71179"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">ABCDEFGHIJKLMNOPQRSTUVWXYZ</tspan><tspan
+         id="tspan20553"
+         sodipodi:role="line"
+         x="1460.854"
+         y="614.71179"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">abcdefghijklmnopqrstuvwxyz</tspan><tspan
+         id="tspan20555"
+         sodipodi:role="line"
+         x="1460.854"
+         y="639.71179"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">0123456789</tspan></text>
   </g>
 </svg>

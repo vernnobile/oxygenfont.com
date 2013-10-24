@@ -9,11 +9,21 @@
     font-size: 120%;
     line-height: 2.1428571435;
     color: #fff;
-    background-color:#bac9ca;
+    background-color:#8fb4cc;
     width:90%;
 }
 
-.container .inset {
+.inset_download {
+    padding: 5px 5px 5px 10px;
+    margin-bottom: 14px;
+    font-size: 105%;
+    line-height: 2.1428571435;
+    color: #fff;
+    background-color:#444;
+    width:90%;
+}
+
+.container .inset, .container .inset_download {
     border-radius: 5px;
 }
 

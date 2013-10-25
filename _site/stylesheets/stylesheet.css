@@ -1,15 +1,16 @@
 * {
     font-family:'oxygensansbook';
-    color:#555;
+    color:#444;
 }
 
 .inset {
     padding: 10px 10px 10px 20px;
     margin-bottom: 14px;
     font-size: 120%;
-    line-height: 2.1428571435;
-    color: #fff;
-    background-color:#8fb4cc;
+    line-height: 1.5;
+    color: #444;
+    background-color:#adc3c9;
+    /*749093;*/
 }
 
 .inset_download {
@@ -22,15 +23,26 @@
 }
 
 .inset_funding {
-    padding: 5px 5px 5px 10px;
+    padding: 0px 5px 5px 10px;
     margin-bottom: 14px;
     font-size: 105%;
     line-height: 2.1428571435;
     color: #fff;
     background-color:#ff9955;
+        border-radius: 0px 0px 5px 5px;
+
 }
 
-.container .inset, .container .inset_download, .container .inset_funding {
+.inset_funding_top {
+    padding: 5px 5px 0px 10px;
+    font-size: 105%;
+    line-height: 2.1428571435;
+    color: #fff;
+    background-color:#000;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.container .inset, .container .inset_download {
     border-radius: 5px;
 }
 

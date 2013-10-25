@@ -3,13 +3,15 @@
     color:#444;
 }
 
+
+
 .inset {
     padding: 10px 10px 10px 10px;
     margin-bottom: 14px;
     font-size: 120%;
     line-height: 1.5;
-    color: #444;
-    background-color:#adc3c9;
+    color: #eee;
+    background-color:#2C839C;
     /*749093;*/
 }
 
@@ -26,17 +28,17 @@
     padding: 0px 5px 5px 10px;
     margin-bottom: 14px;
     font-size: 105%;
-    line-height: 2.1428571435;
+    line-height: 1.7em;
     color: #fff;
-    background-color:#ff9955;
+    background-color:#FF7B17;
         border-radius: 0px 0px 5px 5px;
 
 }
 
 .inset_funding_top {
-    padding: 5px 5px 0px 10px;
+    padding: 5px 5px 3px 10px;
     font-size: 105%;
-    line-height: 2.1428571435;
+    line-height: 1.7em;
     color: #fff;
     background-color:#000;
     border-radius: 5px 5px 0px 0px;
@@ -73,7 +75,7 @@
 
 .mid_btn_dark {
     border:0;
-    background:#467;
+    background:#FF7B17;
     padding:3px 21px 3px 21px;
     margin:0px -2px 0px 0px;
     
@@ -95,7 +97,8 @@
 .lead-in {
     padding:13px 0px 0px 0px;
     font-size:1.3em;
-    font-family:'oxygensansbook';
+    font-family:'oxygensansbold';
+    color:#666;
 }
 
 p {

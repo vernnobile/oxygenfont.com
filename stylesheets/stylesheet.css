@@ -21,7 +21,16 @@
     background-color:#444;
 }
 
-.container .inset, .container .inset_download {
+.inset_funding {
+    padding: 5px 5px 5px 10px;
+    margin-bottom: 14px;
+    font-size: 105%;
+    line-height: 2.1428571435;
+    color: #fff;
+    background-color:#ff9955;
+}
+
+.container .inset, .container .inset_download, .container .inset_funding {
     border-radius: 5px;
 }
 
@@ -74,6 +83,7 @@
 .lead-in {
     padding:13px 0px 0px 0px;
     font-size:1.3em;
+    font-family:'oxygensansbook';
 }
 
 p {

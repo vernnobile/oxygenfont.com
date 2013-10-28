@@ -704,16 +704,16 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:237.18118286000000694px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
-       x="75.48967"
+       style="font-size:237.18118286px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+       x="79.48967"
        y="595.64001"
        id="text22302"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan22304"
-         x="75.48967"
+         x="79.48967"
          y="595.64001"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Silicon-Sans;-inkscape-font-specification:Silicon-Sans">BRP</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans">BRP</tspan></text>
     <path
        style="fill:none;stroke:url(#linearGradient4728);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL)"
        d="M 85.019604,427.42012 C 114.43162,403.19893 164.13126,397.67028 189.74997,421.80827"

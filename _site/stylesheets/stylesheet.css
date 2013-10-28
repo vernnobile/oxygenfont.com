@@ -9,11 +9,11 @@ border:0px solid rgb(192, 192, 192);
 padding:0px 8px 0px 8px;
 width:60px;
 float:left;
-background-color:#eee;
+background-color:#eeeeef;
 }
 
 .specText {
-font-size:3em;
+font-size:2.2em;
 text-align:center;
 }
 
@@ -61,6 +61,7 @@ text-align:center;
 
 .readme {
     background-color:#fff;
+    padding-bottom:21px;
 }
 
 .textbreak {

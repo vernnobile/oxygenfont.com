@@ -3,6 +3,44 @@
     color:#444;
 }
 
+.specimen1, .specimen2, .specimen3, .specimen4, .specimen5, .specimen6, .specimen10 {
+margin:1px;
+border:0px solid rgb(192, 192, 192);
+padding:0px 8px 0px 8px;
+background-color:#eeeeef;
+color:#555;
+white-space:nowrap;
+overflow:hidden;
+}
+
+.specimen1 {
+font-size:1em;
+}
+
+.specimen2 {
+font-size:2em;
+}
+
+.specimen3 {
+font-size:3em;
+}
+
+.specimen4 {
+font-size:4em;
+}
+
+.specimen5 {
+font-size:5em;
+}
+
+.specimen6 {
+font-size:6em;
+}
+
+.specimen10 {
+font-size:10em;
+}
+
 .specBox {
 margin:1px;
 border:0px solid rgb(192, 192, 192);

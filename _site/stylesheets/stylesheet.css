@@ -190,13 +190,25 @@ p {
 .mainheader {
     background-color:#fff;
     color:#333;
-    padding:8px;
     -webkit-border-radius: 8px 8px 0px 0px;
     border-radius: 8px 8px 0px 0px;
+    display:table;
 }
 
+.partheader {
+    color:#333;
+    padding:24px 0px 0px 0px;
+    display:table-cell;
+    vertical-align:middle;
+}
 
-
+.headerText {
+    font-size:2em;
+    color:#2C839C;
+    padding:12px 0px 0px 0px;
+    letter-spacing:5px;
+    font-family:oxygensansbold;
+}
 
 #project_tagline {
     font-size: 1.6em;

@@ -10,7 +10,7 @@
    viewBox="0 -410 2393 2048"
    id="svg3047"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.4 r"
    width="100%"
    height="100%"
    sodipodi:docname="$H_Oxygen-Sans-Bold.svg">
@@ -63,17 +63,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1681"
-     inkscape:window-height="1075"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
      id="namedview3053"
      showgrid="false"
      inkscape:zoom="0.34741988"
-     inkscape:cx="1263.0151"
-     inkscape:cy="939.09894"
+     inkscape:cx="1711.8654"
+     inkscape:cy="929.02469"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="22"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg3047" />
+     inkscape:current-layer="g3049" />
   <rect
      ry="5.9946537"
      y="-1607.6827"
@@ -151,30 +151,8 @@
          id="tspan4629"
          x="-233.68187"
          y="-1.0561023"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans">plg</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans">Hj</tspan></text>
   </g>
-  <text
-     xml:space="preserve"
-     style="font-size:138.31829834px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.8;fill:#071218;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
-     x="758.45844"
-     y="781.29614"
-     id="text3958"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3960"
-       x="758.45844"
-       y="781.29614"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#071218;fill-opacity:1;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans">53%</tspan></text>
-  <path
-     style="fill:none;stroke:#000000;stroke-width:3.83193541;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL)"
-     d="m 872.44562,649.6004 0,-290.57242"
-     id="path3962"
-     inkscape:connector-curvature="0" />
-  <path
-     inkscape:connector-curvature="0"
-     id="path4594"
-     d="m 872.44562,822.37116 0,349.54104"
-     style="fill:none;stroke:#000000;stroke-width:4.20281315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL)" />
   <text
      sodipodi:linespacing="125%"
      id="text4596"
@@ -190,24 +168,24 @@
   <text
      sodipodi:linespacing="125%"
      id="text4637"
-     y="781.29614"
-     x="1726.4229"
+     y="870.85052"
+     x="1162.9401"
      style="font-size:138.31829834px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.8;fill:#071218;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
      xml:space="preserve"><tspan
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#071218;fill-opacity:1;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans"
-       y="781.29614"
-       x="1726.4229"
+       y="870.85052"
+       x="1162.9401"
        id="tspan4639"
-       sodipodi:role="line">100%</tspan></text>
+       sodipodi:role="line">a</tspan></text>
   <path
      inkscape:connector-curvature="0"
      id="path4641"
-     d="m 1840.41,649.6004 0,-673.394492"
+     d="m 1198.9272,751.15481 0,-397.39449"
      style="fill:none;stroke:#000000;stroke-width:3.83193541;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL)"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:4.20281315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL)"
-     d="m 1840.41,822.37116 0,709.33624"
+     d="m 1198.9272,923.92557 0,549.33623"
      id="path4643"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
@@ -217,4 +195,28 @@
      id="path4635"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-size:138.31829834px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.8;fill:#071218;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+     x="957.73901"
+     y="575.50092"
+     id="text3016"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3018"
+       x="957.73901"
+       y="575.50092"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#071218;fill-opacity:1;font-family:Oxygen-Sans;-inkscape-font-specification:Oxygen-Sans">a</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     style="fill:none;stroke:#000000;stroke-width:3.83193541;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL)"
+     d="m 993.72614,451.80522 0,-397.394494"
+     id="path3020"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3022"
+     d="m 993.72614,624.57598 0,549.33622"
+     style="fill:none;stroke:#000000;stroke-width:4.20281315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL)" />
 </svg>

@@ -3,6 +3,17 @@
     color:#444;
 }
 
+.progTextWhite {
+    color:#fff;
+}
+
+.progTextWhite, .progText {
+    padding-left:21px;
+    font-size:1em;
+    line-height:1em;
+
+}
+
 .specimen1, .specimen2, .specimen3, .specimen4, .specimen5, .specimen6, .specimen10 {
 margin:1px;
 border:0px solid rgb(192, 192, 192);

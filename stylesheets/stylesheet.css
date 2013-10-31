@@ -122,43 +122,16 @@ text-align:center;
     border-width:1px 0px 0px 0px;
     border-color:#ccc;
 }
-.left_btn {
-    border:0;
-    background:#fff;
-    padding:3px 8px 3px 16px;
-    margin:0px -2px 0px 0px;
-    border-radius:5px 0px 0px 5px;
-}
 
-.mid_btn_white {
-    border:0;
-    background:#fff;
-    padding:3px 8px 3px 8px;
-    margin:0px -2px 0px 0px;
-    
-}
 
-.mid_btn_dark {
+.my_btn, .my_btn a {
     border:0;
-    background:#ab171e;
-    padding:3px 8px 3px 8px;
-    margin:0px -2px 0px 0px;
-    background-color:#ab171e;
-    
-}
-
-.mid_btn_dark a {
     color:#fff;
+    background-color:#81a7b0;
+    padding:3px 5px 3px 5px;
     
 }
 
-.right_btn {
-    border:0;
-    background:#fff;
-    padding:3px 16px 3px 8px;
-    margin:0px -2px 0px 0px;
-    border-radius:0px 5px 5px 0px;
-}
 
 .lead-in {
     padding:13px 0px 0px 0px;
@@ -174,17 +147,17 @@ p {
 }
 
 .top_menu {
-    margin-top:21px;
+    margin-top:11px;
     margin-bottom:11px;
-    padding-right:11px;
+    padding-right:5px;
 }
 
-.top_menu li a {
+/*.top_menu li a {
     display:inline;
     font-family:'oxygensansbook';
     font-size:1em;
     color:#444;
-}
+}*/
 
 #backBox {
     position:absolute;
@@ -194,8 +167,8 @@ p {
 .mainheader {
     background-color:#fff;
     color:#333;
-    -webkit-border-radius: 8px 8px 0px 0px;
-    border-radius: 8px 8px 0px 0px;
+    -webkit-border-radius: 3px 3px 0px 0px;
+    border-radius: 3px 3px 0px 0px;
     display:table;
 }
 

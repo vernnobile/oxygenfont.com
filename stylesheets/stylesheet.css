@@ -122,17 +122,26 @@ text-align:center;
     border-width:1px 0px 0px 0px;
     border-color:#ccc;
 }
-.left_btn {
+.my_btn, .my_btn a {
     border:0;
-    background:#fff;
+    color:#fff;
+    background:#84afba;
+    padding:3px 8px 3px 16px;
+    
+    
+    .left_btn, .left_btn a {
+    border:0;
+    color:#fff;
+    background:#84afba;
     padding:3px 8px 3px 16px;
     margin:0px -2px 0px 0px;
-    border-radius:5px 0px 0px 5px;
+    border-radius:2px 0px 0px 2px;
 }
 
-.mid_btn_white {
+.mid_btn_white, .mid_btn_white a {
     border:0;
-    background:#fff;
+    color:#fff;
+    background:#84afba;
     padding:3px 8px 3px 8px;
     margin:0px -2px 0px 0px;
     
@@ -140,10 +149,9 @@ text-align:center;
 
 .mid_btn_dark {
     border:0;
-    background:#ab171e;
+    background:#84afba;
     padding:3px 8px 3px 8px;
     margin:0px -2px 0px 0px;
-    background-color:#ab171e;
     
 }
 
@@ -152,12 +160,13 @@ text-align:center;
     
 }
 
-.right_btn {
+.right_btn, right_btn a {
     border:0;
-    background:#fff;
+    color:#fff;
+    background:#84afba;
     padding:3px 16px 3px 8px;
     margin:0px -2px 0px 0px;
-    border-radius:0px 5px 5px 0px;
+    border-radius:0px 2px 2px 0px;
 }
 
 .lead-in {
@@ -194,8 +203,8 @@ p {
 .mainheader {
     background-color:#fff;
     color:#333;
-    -webkit-border-radius: 8px 8px 0px 0px;
-    border-radius: 8px 8px 0px 0px;
+    -webkit-border-radius: 3px 3px 0px 0px;
+    border-radius: 3px 3px 0px 0px;
     display:table;
 }
 

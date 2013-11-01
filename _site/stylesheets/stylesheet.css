@@ -1,5 +1,5 @@
-* {
-    font-family:'oxygensansbook';
+* p {
+    font-family:'Oxygen';
     color:#444;
 }
 
@@ -34,6 +34,8 @@ background-color:#eeeeef;
 .specText {
 font-size:2.2em;
 text-align:center;
+    font-family:'Oxygen';
+
 }
 
 .inset {
@@ -107,7 +109,6 @@ text-align:center;
 }
 
 p {
-    font-family:'oxygensansbook';
     font-size:1em;
     line-height:1.5em;
 }

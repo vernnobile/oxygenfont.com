@@ -1,10 +1,13 @@
-* {
-    font-family:'oxygensansbook';
+*, p, .specText, .inset {
+font-family:'Oxygen';
+}
+
+p {
     color:#444;
 }
 
 .sectionStart {
-    padding-left:21px
+    padding-left:16px
 }
 
 .progTextWhite {
@@ -18,42 +21,8 @@
 
 }
 
-.specimen1, .specimen2, .specimen3, .specimen4, .specimen5, .specimen6, .specimen10 {
-margin:1px;
-border:0px solid rgb(192, 192, 192);
-padding:0px 8px 0px 8px;
-background-color:#eeeeef;
-color:#555;
-white-space:nowrap;
-overflow:hidden;
-}
-
-.specimen1 {
-font-size:1em;
-}
-
-.specimen2 {
-font-size:2em;
-}
-
-.specimen3 {
-font-size:3em;
-}
-
-.specimen4 {
-font-size:4em;
-}
-
-.specimen5 {
-font-size:5em;
-}
-
-.specimen6 {
-font-size:6em;
-}
-
-.specimen10 {
-font-size:10em;
+.carousel {
+background-color:#333;
 }
 
 .specBox {
@@ -68,6 +37,7 @@ background-color:#eeeeef;
 .specText {
 font-size:2.2em;
 text-align:center;
+
 }
 
 .inset {
@@ -81,7 +51,7 @@ text-align:center;
 
 .inset_download {
     padding: 5px 5px 5px 10px;
-    margin-bottom: 14px;
+    margin: 0px 3px 14px 3px;
     font-size: 105%;
     line-height: 2.1428571435;
     color: #fff;
@@ -95,7 +65,7 @@ text-align:center;
     line-height: 1.7em;
     color: #fff;
     background-color:#FF7B17;
-        border-radius: 0px 0px 5px 5px;
+        border-radius: 0px 0px 3px 3px;
 
 }
 
@@ -105,11 +75,11 @@ text-align:center;
     line-height: 1.7em;
     color: #fff;
     background-color:#000;
-    border-radius: 5px 5px 0px 0px;
+    border-radius: 3px 3px 0px 0px;
 }
 
 .container .inset, .container .inset_download {
-    border-radius: 5px;
+    border-radius: 3px;
 }
 
 .readme {
@@ -122,6 +92,7 @@ text-align:center;
     border-width:1px 0px 0px 0px;
     border-color:#ccc;
 }
+<<<<<<< HEAD
 .my_btn, .my_btn a {
     border:0;
     color:#fff;
@@ -146,9 +117,13 @@ text-align:center;
     margin:0px -2px 0px 0px;
     
 }
+=======
 
-.mid_btn_dark {
+>>>>>>> b9c079c3b73f4f7ad19f309e9b41d0aa19a7a0d9
+
+.my_btn, .my_btn a {
     border:0;
+<<<<<<< HEAD
     background:#84afba;
     padding:3px 8px 3px 8px;
     margin:0px -2px 0px 0px;
@@ -156,10 +131,15 @@ text-align:center;
 }
 
 .mid_btn_dark a {
+=======
+>>>>>>> b9c079c3b73f4f7ad19f309e9b41d0aa19a7a0d9
     color:#fff;
+    background-color:#a0a7b0;
+    padding:3px 5px 3px 5px;
     
 }
 
+<<<<<<< HEAD
 .right_btn, right_btn a {
     border:0;
     color:#fff;
@@ -168,6 +148,8 @@ text-align:center;
     margin:0px -2px 0px 0px;
     border-radius:0px 2px 2px 0px;
 }
+=======
+>>>>>>> b9c079c3b73f4f7ad19f309e9b41d0aa19a7a0d9
 
 .lead-in {
     padding:13px 0px 0px 0px;
@@ -177,23 +159,17 @@ text-align:center;
 }
 
 p {
-    font-family:'oxygensansbook';
     font-size:1em;
     line-height:1.5em;
 }
 
 .top_menu {
-    margin-top:21px;
+    margin-top:11px;
     margin-bottom:11px;
-    padding-right:11px;
+    padding-right:5px;
 }
 
-.top_menu li a {
-    display:inline;
-    font-family:'oxygensansbook';
-    font-size:1em;
-    color:#444;
-}
+
 
 #backBox {
     position:absolute;
@@ -242,8 +218,13 @@ p {
 }
 
 .copyright {
-    font-size:0.8em;
+font-size:0.8em;
 }
+
+.copyright, .copyright a {
+color:#fff;
+}
+
 
 
 

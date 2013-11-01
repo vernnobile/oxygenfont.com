@@ -1,5 +1,8 @@
-* p {
-    font-family:'Oxygen';
+*, p, .specText, .inset {
+font-family:'Oxygen';
+}
+
+p {
     color:#444;
 }
 
@@ -34,7 +37,6 @@ background-color:#eeeeef;
 .specText {
 font-size:2.2em;
 text-align:center;
-    font-family:'Oxygen';
 
 }
 

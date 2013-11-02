@@ -1,8 +1,6 @@
-*, p, .specText, .inset {
-font-family:'Oxygen';
-}
 
-p {
+*, p {
+    font-family:'Oxygen';
     color:#444;
 }
 
@@ -37,8 +35,6 @@ background-color:#eeeeef;
 .specText {
 font-size:2.2em;
 text-align:center;
-font-family:'oxygen';
-
 }
 
 .inset {
@@ -94,55 +90,13 @@ font-family:'oxygen';
     border-color:#ccc;
 }
 
-.my_btn, .my_btn a {
-    border:0;
-    color:#fff;
-    background:#84afba;
-    padding:3px 8px 3px 16px;
-    }
-    
-    .left_btn, .left_btn a {
-    border:0;
-    color:#fff;
-    background:#84afba;
-    padding:3px 8px 3px 16px;
-    margin:0px -2px 0px 0px;
-    border-radius:2px 0px 0px 2px;
-}
-
-.mid_btn_white, .mid_btn_white a {
-    border:0;
-    color:#fff;
-    background:#84afba;
-    padding:3px 8px 3px 8px;
-    margin:0px -2px 0px 0px;
-    
-}
-
 
 .my_btn, .my_btn a {
     border:0;
-    background:#84afba;
-    padding:3px 8px 3px 8px;
-    margin:0px -2px 0px 0px;
-    
-}
-
-.mid_btn_dark a {
-
     color:#fff;
     background-color:#a0a7b0;
     padding:3px 5px 3px 5px;
     
-}
-
-.right_btn, right_btn a {
-    border:0;
-    color:#fff;
-    background:#84afba;
-    padding:3px 16px 3px 8px;
-    margin:0px -2px 0px 0px;
-    border-radius:0px 2px 2px 0px;
 }
 
 
@@ -172,10 +126,11 @@ p {
 }
 
 .mainheader {
-    background:#fff;
+    background-color:#fff;
     color:#333;
     -webkit-border-radius: 3px 3px 0px 0px;
     border-radius: 3px 3px 0px 0px;
+    display:table;
 }
 
 .partheader {
@@ -196,7 +151,6 @@ p {
 #project_tagline {
     font-size: 1.6em;
     color: #5e6268;
-    font-weight: Bold;
 }
 
 

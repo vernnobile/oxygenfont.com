@@ -93,12 +93,13 @@ font-family:'oxygen';
     border-width:1px 0px 0px 0px;
     border-color:#ccc;
 }
+
 .my_btn, .my_btn a {
     border:0;
     color:#fff;
     background:#84afba;
     padding:3px 8px 3px 16px;
-    
+    }
     
     .left_btn, .left_btn a {
     border:0;
@@ -171,11 +172,10 @@ p {
 }
 
 .mainheader {
-    background-color:#fff;
+    background:#fff;
     color:#333;
     -webkit-border-radius: 3px 3px 0px 0px;
     border-radius: 3px 3px 0px 0px;
-    display:table;
 }
 
 .partheader {
@@ -190,13 +190,13 @@ p {
     color:#2C839C;
     padding:12px 0px 0px 0px;
     letter-spacing:5px;
-    font-family:oxygensansbold;
+    font-family:'Oxygen';
 }
 
 #project_tagline {
     font-size: 1.6em;
     color: #5e6268;
-    font-weight: 700;
+    font-weight: Bold;
 }
 
 

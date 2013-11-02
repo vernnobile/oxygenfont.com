@@ -103,8 +103,9 @@ text-align:center;
 .lead-in {
     padding:13px 0px 0px 0px;
     font-size:1.3em;
-    font-family:'oxygensansbold';
+    font-family:'Oxygen';
     color:#666;
+    font-weight:bold;
 }
 
 p {
@@ -146,6 +147,7 @@ p {
     padding:12px 0px 0px 0px;
     letter-spacing:5px;
     font-family:'Oxygen';
+    font-weight:bold;
 }
 
 #project_tagline {

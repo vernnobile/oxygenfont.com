@@ -2,6 +2,9 @@
 *, p {
     font-family:'Oxygen';
     color:#444;
+    text-rendering: optimizeLegibility;
+    -ms-font-feature-settings: "kern" 1;
+    -webkit-font-kerning: normal;
 }
 
 .sectionStart {

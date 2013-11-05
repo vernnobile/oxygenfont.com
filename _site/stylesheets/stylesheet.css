@@ -7,8 +7,9 @@
     -webkit-font-kerning: normal;
 }
 
-.sectionStart {
-    padding-left:16px
+.sectionStart, .sectionStart a {
+    padding-left:16px;
+    color:#305d7d;
 }
 
 .progTextWhite {
@@ -46,7 +47,7 @@ text-align:center;
     font-size: 120%;
     line-height: 1.5;
     color: #eee;
-    background-color:#2C839C;
+    background-color:#305d7d;
 }
 
 .inset_download {
@@ -107,7 +108,7 @@ text-align:center;
     padding:13px 0px 0px 0px;
     font-size:1.3em;
     font-family:'Oxygen';
-    color:#666;
+    color:#305d7d;
     font-weight:bold;
 }
 
@@ -146,7 +147,7 @@ p {
 
 .headerText {
     font-size:2em;
-    color:#2C839C;
+    color:#305d7d;
     padding:12px 0px 0px 0px;
     letter-spacing:5px;
     font-family:'Oxygen';

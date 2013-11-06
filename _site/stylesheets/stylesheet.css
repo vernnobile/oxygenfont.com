@@ -71,10 +71,10 @@ text-align:center;
 }
 
 .inset_funding_top {
-    padding: 21px;
-    color: #fff;
-    background-color:#000;
-    border-radius: 3px 3px 0px 0px;
+padding: 21px;
+margin-top:44px;
+background-color:#000;
+border-radius: 3px 3px 0px 0px;
 }
 
 .container .inset, .container .inset_download {

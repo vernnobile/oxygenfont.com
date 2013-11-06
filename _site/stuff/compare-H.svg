@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 -410 2226.4998 839.91034"
+   id="svg3047"
+   version="1.1"
+   inkscape:version="0.48.4 r"
+   width="100%"
+   height="100%"
+   sodipodi:docname="compare-H.svg"
+   inkscape:export-filename="/Users/vern/gitHub/oxygenfont.com/assets/images/compare-H.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata3057">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3055">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4110"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3970"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
+     id="namedview3053"
+     showgrid="false"
+     inkscape:zoom="0.55537751"
+     inkscape:cx="1055.3689"
+     inkscape:cy="277.52507"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3047"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <rect
+     ry="2.9277747"
+     y="-429.91034"
+     x="0"
+     height="839.91034"
+     width="2226.4998"
+     id="rect4631"
+     style="fill:#7cb9d2;fill-opacity:1;stroke:none;opacity:0.3"
+     transform="scale(1,-1)" />
+  <rect
+     style="opacity:0.9;fill:#7cb9d2;fill-opacity:0.30414746;stroke:none"
+     id="rect3827"
+     width="2226.4998"
+     height="561.65729"
+     x="0"
+     y="-334.83673"
+     ry="1.9578352" />
+  <rect
+     ry="1.9702797"
+     y="-336.60617"
+     x="0"
+     height="565.22729"
+     width="2223.1511"
+     id="rect3829"
+     style="fill:#7cb9d2;fill-opacity:1;stroke:none" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4596"
+     y="331.13916"
+     x="111.31422"
+     style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#333333;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+     xml:space="preserve"><tspan
+       style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+       y="331.13916"
+       x="111.31422"
+       id="tspan4598"
+       sodipodi:role="line">Oxygen / Cantarell</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3080"
+     y="227.39"
+     x="564.27246"
+     style="font-size:793.19714354999985062px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.59999999999999998;fill:#000000;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       y="227.39"
+       x="564.27246"
+       id="tspan3082"
+       sodipodi:role="line">H</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:793.19714354999996431px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium;opacity:0.8"
+     x="560.44897"
+     y="227.39"
+     id="text3074"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3076"
+       x="560.44897"
+       y="227.39"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen">H</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#333333;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+     x="669.34338"
+     y="331.13916"
+     id="text3084"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3086"
+       x="669.34338"
+       y="331.13916"
+       style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;font-family:Oxygen;-inkscape-font-specification:Oxygen">Oxygen / Ubuntu</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:793.19714354999985062px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+     x="1094.3864"
+     y="227.39"
+     id="text3090"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3092"
+       x="1094.3864"
+       y="227.39"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">H</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3096"
+     y="227.39"
+     x="1099.4214"
+     style="font-size:793.19714354999996431px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium;opacity:0.8"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+       y="227.39"
+       x="1099.4214"
+       id="tspan3098"
+       sodipodi:role="line">H</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3100"
+     y="331.13916"
+     x="1227.4154"
+     style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#333333;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+     xml:space="preserve"><tspan
+       style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+       y="331.13916"
+       x="1227.4154"
+       id="tspan3102"
+       sodipodi:role="line">Oxygen / Droid</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3106"
+     y="227.39"
+     x="1640.7178"
+     style="font-size:793.19714354999996431px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.59999999999999998;fill:#000000;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Roboto;-inkscape-font-specification:Roboto"
+       y="227.39"
+       x="1640.7178"
+       id="tspan3108"
+       sodipodi:role="line">H</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:793.19714354999996431px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium;opacity:0.8"
+     x="1638.3939"
+     y="227.39"
+     id="text3112"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3114"
+       x="1638.3939"
+       y="227.39"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen">H</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#333333;fill-opacity:1;stroke:none;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+     x="1748.2659"
+     y="331.13916"
+     id="text3116"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3118"
+       x="1748.2659"
+       y="331.13916"
+       style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;font-family:Oxygen;-inkscape-font-specification:Oxygen">Oxygen / Roboto</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:793.19714354999985062px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium"
+     x="-18.803066"
+     y="227.39"
+     id="text3068"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3070"
+       x="-18.803066"
+       y="227.39"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#000000;font-family:Cantarell;-inkscape-font-specification:Cantarell Medium">H</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text4627"
+     y="227.39"
+     x="21.476475"
+     style="font-size:793.19714354999985062px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Venus;-inkscape-font-specification:Venus Medium;opacity:0.8"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+       y="227.39"
+       x="21.476475"
+       id="tspan4629"
+       sodipodi:role="line">H</tspan></text>
+</svg>

@@ -3,7 +3,7 @@
     font-family:'Oxygen';
     color:#444;
     text-rendering: optimizeLegibility;
-    -ms-font-feature-settings: "kern" 1;
+    -ms-font-feature-settings: "kern" 0;
     -webkit-font-kerning: normal;
 }
 
@@ -71,9 +71,7 @@ text-align:center;
 }
 
 .inset_funding_top {
-    padding: 5px 5px 3px 10px;
-    font-size: 105%;
-    line-height: 1.7em;
+    padding: 21px;
     color: #fff;
     background-color:#000;
     border-radius: 3px 3px 0px 0px;

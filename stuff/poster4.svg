@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1710"
-   height="2430"
+   width="1052.3622"
+   height="1488.189"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="poster4.svg">
+   sodipodi:docname="poster4.pdf">
   <defs
      id="defs4">
     <linearGradient
@@ -35,35 +35,36 @@
        id="linearGradient4401"
        gradientUnits="userSpaceOnUse"
        x1="435.65436"
-       y1="-614.12758"
-       x2="724.08487"
-       y2="-614.12758" />
+       y1="-614.12756"
+       x2="724.0849"
+       y2="-614.12756" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4377"
        id="linearGradient4410"
        gradientUnits="userSpaceOnUse"
        x1="435.65436"
-       y1="-614.12758"
-       x2="724.08487"
-       y2="-614.12758" />
+       y1="-614.12756"
+       x2="724.0849"
+       y2="-614.12756" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4377"
        id="linearGradient4417"
        gradientUnits="userSpaceOnUse"
        x1="435.65436"
-       y1="-614.12758"
-       x2="724.08487"
-       y2="-614.12758"
+       y1="-614.12756"
+       x2="724.0849"
+       y2="-614.12756"
        gradientTransform="translate(-11.501299,36.18044)" />
     <filter
        inkscape:collect="always"
        id="filter4157"
-       x="-0.59365766"
-       width="2.1873153"
+       x="-0.59365767"
+       width="2.1873152"
        y="-0.41676864"
-       height="1.8335373">
+       height="1.8335373"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="304.72071"
@@ -77,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="912.64706"
-     inkscape:cy="1157.0442"
+     inkscape:zoom="0.5"
+     inkscape:cx="432.72442"
+     inkscape:cy="488.66134"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -99,7 +100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -107,28 +108,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1377.6403)">
+     transform="translate(0,435.82928)">
     <rect
-       style="opacity:0.90000000000000002;fill:#1a4155;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="opacity:0.9;fill:#1a4155;fill-opacity:1;stroke:none"
        id="rect3665"
-       width="1708.5714"
-       height="2431.4285"
-       x="0"
-       y="-1.4285715"
-       rx="2.4099617"
-       transform="translate(0,-1377.6403)" />
-    <rect
-       rx="1.7376173"
-       y="-1069.0688"
-       x="240"
-       height="1754.7618"
-       width="1231.9048"
-       id="rect3379"
-       style="opacity:0.81651378;fill:#247852;fill-opacity:1;stroke:none;filter:url(#filter4157)"
-       transform="matrix(0.63011952,0,0,0.75342572,314.93339,-18.932023)" />
+       width="1072.0758"
+       height="1508.4897"
+       x="-9.8617401"
+       y="-443.8432" />
     <g
        id="g4451"
-       transform="matrix(0.60736591,0,0,0.60736591,335.4217,-132.77096)">
+       transform="matrix(0.37408103,0,0,0.37408103,206.58864,322.42917)">
       <rect
          rx="0.683061"
          y="-276.68796"

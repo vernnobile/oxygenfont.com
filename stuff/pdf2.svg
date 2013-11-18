@@ -12,15 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
    height="1488.189"
-   id="svg2"
+   id="svg17921"
    version="1.1"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="icons1.svg"
-   inkscape:export-filename="/Users/vern/gitHub/oxygenfont.com/assets/images/screen2.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   sodipodi:docname="New document 32">
   <defs
-     id="defs4">
+     id="defs17923">
     <filter
        inkscape:collect="always"
        id="filter17314"
@@ -42,30 +39,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="524.92745"
-     inkscape:cy="724.29307"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-top="100"
-     fit-margin-left="100"
-     fit-margin-right="100"
-     fit-margin-bottom="100"
-     inkscape:window-width="1680"
-     inkscape:window-height="1002"
+     inkscape:window-width="1248"
+     inkscape:window-height="878"
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="0" />
   <metadata
-     id="metadata7">
+     id="metadata17926">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,10 +66,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(24,540.92497)">
+     transform="translate(0,435.82679)">
     <g
        id="g17348"
-       transform="translate(-56,-434)">
+       transform="translate(-34,-382.21319)">
       <rect
          transform="matrix(0.75882029,0,0,0.7295956,132.44005,122.55864)"
          style="opacity:0.91743116;fill:#1a1a1a;fill-opacity:1;stroke:none;filter:url(#filter17314)"

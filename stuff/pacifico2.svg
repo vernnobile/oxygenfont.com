@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.4 r"
    width="1052.3623"
    height="1488.1887"
    xml:space="preserve"
@@ -167,54 +167,57 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1156"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60137138"
-     inkscape:cx="216.64762"
-     inkscape:cy="773.49564"
+     inkscape:cx="22.092302"
+     inkscape:cy="837.00387"
      inkscape:window-x="20"
-     inkscape:window-y="11"
+     inkscape:window-y="22"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="UI321"
      transform="matrix(1.25,0,0,-1.25,0,1488.1887)"><g
-   id="g12" />
+   id="g12"
+   transform="translate(-27.2,0)" />
 
 <text
    transform="scale(1,-1)"
    sodipodi:linespacing="125%"
    id="text3035"
-   y="-715.93378"
-   x="204.19984"
+   y="-714.3338"
+   x="183.83121"
    style="font-size:106.43746185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Antonio;-inkscape-font-specification:Antonio Ultra-Condensed"
    xml:space="preserve"><tspan
-     style="font-size:106.43746185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Antonio;-inkscape-font-specification:Antonio Ultra-Condensed"
-     y="-715.93378"
-     x="204.19984"
+     style="font-size:104px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Antonio;-inkscape-font-specification:Antonio Ultra-Condensed"
+     y="-714.3338"
+     x="183.83121"
      id="tspan3037"
      sodipodi:role="line">Jelly Beans</tspan></text>
+
 
 <text
    xml:space="preserve"
    style="font-size:106.43746185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Antonio;-inkscape-font-specification:Antonio Ultra-Condensed"
-   x="238.88142"
-   y="-605.85382"
+   x="177.20485"
+   y="-594.65375"
    id="text3039"
    sodipodi:linespacing="125%"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan3041"
-     x="238.88142"
-     y="-605.85382"
-     style="font-size:106.43746185px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Antonio;-inkscape-font-specification:Antonio Ultra-Condensed">Geraldino</tspan></text>
+     x="177.20485"
+     y="-594.65375"
+     style="font-size:106.43746338px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Antonio;-inkscape-font-specification:Antonio Ultra-Condensed">Cappuccino</tspan></text>
+
 
 <g
    id="g3589"
-   transform="translate(57.508925,-111.72635)"><text
+   transform="translate(46.187971,-105.32635)"><text
    transform="matrix(3.1516161,0,0,-3.1516161,-729.57214,2343.7981)"
    sodipodi:linespacing="125%"
    id="text3012"
@@ -228,4 +231,36 @@
      id="tspan3014"
      sodipodi:role="line">Chocolate</tspan></text>
 
-</g></g></svg>
+
+</g><text
+   xml:space="preserve"
+   style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+   x="406.02679"
+   y="-1045.6101"
+   id="text3115"
+   sodipodi:linespacing="125%"
+   transform="scale(1,-1)"><tspan
+     sodipodi:role="line"
+     id="tspan3117"
+     x="406.02679"
+     y="-1045.6101"
+     style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#333333;font-family:Antonio;-inkscape-font-specification:Antonio Italic">Antonio</tspan><tspan
+     sodipodi:role="line"
+     x="406.02679"
+     y="-1006.6305"
+     style="font-size:16.79999924px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Oxygen;-inkscape-font-specification:Oxygen"
+     id="tspan3119">a font family based on refining Anton font</tspan></text>
+<text
+   transform="scale(1,-1)"
+   sodipodi:linespacing="-166161.6%"
+   id="text3121"
+   y="-466.66431"
+   x="152.2652"
+   style="font-size:111.8090744px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;text-align:start;line-height:-166161.59667969%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#676c53;fill-opacity:1;stroke:none;font-family:Antonio;-inkscape-font-specification:Antonio Ultra-Condensed"
+   xml:space="preserve"><tspan
+     style="font-size:111.80906677px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#676c53;font-family:Antonio;-inkscape-font-specification:Antonio Ultra-Condensed"
+     y="-466.66431"
+     x="152.2652"
+     id="tspan3123"
+     sodipodi:role="line">“bravisimo”</tspan></text>
+</g></svg>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1273"
+   height="1275"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bethany5.pdf">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59716308"
+     inkscape:cx="583.88968"
+     inkscape:cy="533.54779"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1793"
+     inkscape:window-height="1303"
+     inkscape:window-x="34"
+     inkscape:window-y="10"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(219.35715,87.994963)">
+    <rect
+       style="opacity:0.8;fill:#d45500;fill-opacity:1;stroke:#e79800;stroke-width:0.99674541;stroke-opacity:1"
+       id="rect4085"
+       width="1279.3824"
+       height="1286.0808"
+       x="0"
+       y="-1.0333354"
+       transform="matrix(1.0039267,0,0,1.0026042,-224.3809,-91.341441)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="423.30267"
+       y="652.15814"
+       id="text3066"
+       sodipodi:linespacing="125%"
+       transform="matrix(34.367359,0,0,34.367359,-14152.377,-21309.13)"><tspan
+         sodipodi:role="line"
+         x="423.30267"
+         y="652.15814"
+         style="font-size:38.87742996px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Umbrella;-inkscape-font-specification:Umbrella Bold"
+         dx="0 0 0 -1.88 -6.3200016 0 -2.72"
+         id="tspan4012">R<tspan
+   id="tspan4047"
+   style="font-size:77.75485229px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Umbrella;-inkscape-font-specification:Umbrella Bold"><tspan
+     id="tspan4038"
+     style="font-size:42.48654938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Umbrella;-inkscape-font-specification:Umbrella Bold"><tspan
+       id="tspan4033"
+       style="font-size:45.35699844px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Umbrella;-inkscape-font-specification:Umbrella Bold" /></tspan></tspan></tspan></text>
+    <text
+       transform="matrix(3.672412,0,0,3.672412,-1283.6552,-2291.3791)"
+       sodipodi:linespacing="125%"
+       id="text4056"
+       y="652.15814"
+       x="423.30267"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4058"
+         dx="0 0 0 0 0 0 0 0 0 0 -1.88 -6.3200016 0 -2.72"
+         style="font-size:38.87742996px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Umbrella;-inkscape-font-specification:Umbrella Bold"
+         y="652.15814"
+         x="423.30267"
+         sodipodi:role="line">Ombrella</tspan></text>
+  </g>
+</svg>
